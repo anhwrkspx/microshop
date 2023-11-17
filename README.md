@@ -20,6 +20,6 @@ Kubernetes Engine (GKE).
 | [![Screenshot of store homepage](/docs/img/microshop.png)](/docs/img/microshop.png) | [![Screenshot of checkout screen](/docs/img/microshop_checkout.png)](/docs/img/microshop_checkout.png) |
 
 
-| Recommend                                                                                                         | Billing Screen                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Recommend                                                                                                     | Billing Screen                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [![Screenshot of store homepage](/docs/img/microshop_recommend.png)](/docs/img/microshop_recommend.png) | [![Screenshot of checkout screen](/docs/img/microshop_billed.png)](/docs/img/microshop_billed.png) |
