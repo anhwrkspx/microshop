@@ -8,7 +8,7 @@ Online Boutique consists of an 11-tier microservices application. The applicatio
 web-based e-commerce app where users can browse items,
 add them to the cart, and purchase them.
 
-Google uses this application to demonstrate the use of technologies like
+Using technologies like
 Kubernetes, GKE, Istio, Stackdriver, and gRPC. This application
 works on any Kubernetes cluster, like Google
 Kubernetes Engine (GKE).
